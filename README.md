@@ -1,6 +1,6 @@
 # DSC-Golang-Docker-Kubernetes
 
-Made with :heart: By DSC ICNJ and DSC UMass
+Made with :heart: By DSC TCNJ and DSC UMass
 
 
 
